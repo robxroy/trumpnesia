@@ -1,0 +1,27 @@
+.navbar-dark {
+    background: black !important;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
+
+.navbar-text {
+    color: white !important;
+    margin-bottom: 0 !important;
+}
+
+h3 {
+    font-size: 200%;
+}
+
+.current-score {
+    padding-left: 10% !important;
+    font-size: 150% !important;
+}
+
+.high-score {
+    padding-right: 10% !important;
+    padding-left: 15% !important;
+    text-align: right !important;
+    font-size: 150% !important;
+}
