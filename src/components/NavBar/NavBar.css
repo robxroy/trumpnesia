@@ -6,8 +6,9 @@
 }
 
 .navbar-text {
-    color: white !important;
+    color: gold !important;
     margin-bottom: 0 !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 h3 {
